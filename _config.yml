@@ -10,6 +10,7 @@
 ############################
 
 title: Impresiones del Altiplano
+subtitle: Si quieres alcanzar las estrellas, cava un hoyo profundo
 # Your name to show in the footer
 author: Oscar Ramos
 
@@ -84,8 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: Un blog sobre el misterioso arte de vivir
 ###########################
 # --- General options --- #
 ###########################
