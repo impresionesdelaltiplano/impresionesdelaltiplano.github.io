@@ -10,19 +10,18 @@
 ############################
 
 # Name of website
-title: My website
-
+title: Impresiones del Altiplano
 # Your name to show in the footer
-author: Some Person
+author: Oscar Ramos
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mí"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -50,14 +49,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "odramosrios@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  facebook: # deanattali
+  github: # daattali
+  twitter: # daattali
+  patreon: # DeanAttali
+  youtube: # "@daattali"
+  whatsapp: # 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -102,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "impresionesdelaltiplano.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,17 +135,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#F5F9F0"        # Fondo: verde muy claro, como la bruma de la mañana
+text-col: "#2D3B2D"        # Texto: verde oscuro profundo
+link-col: "#4A7C59"        # Links: verde bosque
+hover-col: "#6B9E75"       # Hover: verde más claro al pasar el mouse
+navbar-col: "#3D5A3D"      # Barra nav: verde montaña oscuro
+navbar-text-col: "#F0F7EC" # Texto nav: blanco verdoso
+navbar-border-col: "#5A8A5A" # Borde nav: verde medio
+footer-col: "#E8F0E3"      # Footer: verde claro
+footer-text-col: "#4A5D4A" # Texto footer: verde grisáceo
+footer-link-col: "#3D6B4A" # Links footer: verde oscuro
+footer-hover-col: "#5A9A6A" # Hover footer: verde vivo
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
