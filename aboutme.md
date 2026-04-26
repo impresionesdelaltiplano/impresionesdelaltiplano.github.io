@@ -3,13 +3,9 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+Hola, soy Oscar Daniel
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Escribo desde el altiplano, un lugar intermedio entre las nieves perpetuas y el nivel del mar.
 
 ### My story
 
