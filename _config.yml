@@ -9,7 +9,6 @@
 # --- Required options --- #
 ############################
 
-# Name of website
 title: Impresiones del Altiplano
 # Your name to show in the footer
 author: Oscar Ramos
@@ -135,17 +134,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#F5F9F0"        # Fondo: verde muy claro, como la bruma de la mañana
-text-col: "#2D3B2D"        # Texto: verde oscuro profundo
-link-col: "#4A7C59"        # Links: verde bosque
-hover-col: "#6B9E75"       # Hover: verde más claro al pasar el mouse
-navbar-col: "#3D5A3D"      # Barra nav: verde montaña oscuro
-navbar-text-col: "#F0F7EC" # Texto nav: blanco verdoso
-navbar-border-col: "#5A8A5A" # Borde nav: verde medio
-footer-col: "#E8F0E3"      # Footer: verde claro
-footer-text-col: "#4A5D4A" # Texto footer: verde grisáceo
-footer-link-col: "#3D6B4A" # Links footer: verde oscuro
-footer-hover-col: "#5A9A6A" # Hover footer: verde vivo
+page-col: "#F5F9F0"        
+text-col: "#2D3B2D"        
+link-col: "#4A7C59"       
+hover-col: "#6B9E75"       
+navbar-col: "#3D5A3D"      
+navbar-text-col: "#F0F7EC" 
+navbar-border-col: "#5A8A5A" 
+footer-col: "#E8F0E3"      
+footer-text-col: "#4A5D4A" 
+footer-link-col: "#3D6B4A" 
+footer-hover-col: "#5A9A6A"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
